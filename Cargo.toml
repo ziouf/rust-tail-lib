@@ -1,0 +1,6 @@
+[package]
+name = "rust-tail-lib"
+version = "0.1.0"
+authors = ["Cyril <marin.cyril@gmail.com>"]
+
+[dependencies]
